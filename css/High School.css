@@ -1,5 +1,5 @@
 html{
-    background-image:url(/home/tavares/minecraft/ETLV/marbre.png);
+    background-image: url(../photos/photo11.png);
 
 }
 
@@ -17,7 +17,7 @@ p{
     width: 1000px; 
     word-break: keep-all;
    font-size: 30px;
-   margin-left: 100px
+   margin-left: 300px
   
 }
 li{
@@ -45,13 +45,11 @@ li{
     color: black;
 
 }
-.photo4{
+.photo5{
     width: 570px;
     height: 372px;
-    margin-left: 100px;
+    margin-left: 400px;
+    
 
 
-}
-.photo3{
-    margin-left: 100px;
 }

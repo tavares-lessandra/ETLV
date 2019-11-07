@@ -1,24 +1,34 @@
 html{
-    background-image:url(/home/tavares/minecraft/ETLV/marbre.png);
-
-}
-
-h1{
-    text-align:center;
-    font-family: 'Mansalva', cursive;
+    background-image: url(../photos/photo11.png);  
 
 }
 nav{
     background-color: lightsgray
 }
+h1{
+    font-family: 'Mansalva', cursive;
+    text-align: center;
+ }
 p{
     font-family: 'Questrial';
     text-align: center;
     width: 1000px; 
     word-break: keep-all;
    font-size: 30px;
-   margin-left: 300px
   
+}
+.photo1{
+    width: 500px;
+    height: 300px;
+    margin-left: 100px;
+
+
+}
+.photo2{ width: 500px;
+    height: 300px;
+    margin-left: 200px;
+
+
 }
 li{
     display: inline-block;
@@ -44,18 +54,4 @@ li{
     margin-left: 150px;
     color: black;
 
-}
-.photo8{
-    width: 570px;
-    height: 372px;
-    margin-left: 400px;
-    
-
-
-}
-.photo9{
-    width: 570px;
-    height: 372px;
-    margin-left: 400px;
-    
 }
